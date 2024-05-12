@@ -11,6 +11,12 @@ h1{
 	text-transform: uppercase;
 	text-align: center;
 }
+h2 {
+	color: brown;
+	padding-left: 4%;
+	font-family: 'Roboto', serif;
+	text-align: center;
+}
 
 nav{
 	background-color: #F0A160;
@@ -338,13 +344,7 @@ ol li{
 	background-color: #f3f3f3;
 }
 
-h2 {
-	color: brown;
-	padding-left: 4%;
-	font-family: 'Roboto', serif;
-	
-
-}
+ 
 
 .course_select {
   float: left;
